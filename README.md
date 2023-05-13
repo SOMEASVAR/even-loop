@@ -18,6 +18,25 @@ Step 5 : Display the result in the terminal.
 Program developed by: SOMEASVAR.R
 Register No: 212221230103
 ```
+```
+public class Even_number
+{
+    public static void main(String[]args)
+    {
+        int n=20;
+        System.out.print("List of even numbers from 1 to 20: \n");
+        for (int i=1; i<=n; i++)
+            {
+                if ( i%2 == 0 )
+                    {
+                        System.out.print(i + " ");
+                    }
+            }
+    }
+}
+
+
+```
 # Output:
 ![image](https://github.com/SOMEASVAR/even-loop/assets/93434149/5c54c222-bc04-47f9-88f8-cc1c637afb99)
 # Result:
