@@ -1,4 +1,4 @@
-# Experiment-4
+# Experiment-3
 
 # To display the even numbers from 1-20
 # Aim:
